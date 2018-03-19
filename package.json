@@ -1,0 +1,25 @@
+{
+  "name": "simple2big",
+  "version": "1.0.0",
+  "description": "A convertor to change the simplified Chinese text into traditional characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jipan25/fastsimple2big.git"
+  },
+  "keywords": [
+    "simple2big",
+    "simplified",
+    "traditional",
+    "convertor"
+  ],
+  "author": "jipan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jipan25/fastsimple2big/issues"
+  },
+  "homepage": "https://github.com/jipan25/fastsimple2big#readme"
+}
