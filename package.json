@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jipan25/fastsimple2big/issues"
   },
-  "homepage": "https://github.com/jipan25/fastsimple2big#readme"
+  "homepage": "https://github.com/jipan25/fastsimple2big#readme",
+  "dependencies": {
+    "should": "^13.2.1"
+  }
 }

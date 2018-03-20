@@ -1,11 +1,11 @@
 # fastsimple2big
 A convertor to change the simplified Chinese  text into traditional characters, And it's fast.
-#simple2big 繁体、简体字符转换工具
+# simple2big 繁体、简体字符转换工具
 
-##Install
+## Install
 
 npm install simple2big
-##Usage
+## Usage
 
 S = require("simple2big");
 
