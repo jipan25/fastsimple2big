@@ -1,6 +1,6 @@
 {
   "name": "simple2big",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A convertor to change the simplified Chinese text into traditional characters.",
   "main": "index.js",
   "scripts": {
